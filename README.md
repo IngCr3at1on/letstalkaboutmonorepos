@@ -13,5 +13,3 @@ While the code included will be in Go this is just to include examples to show t
 Don't be afraid to use a command line interface, we will be using it for every single step discussed.
 
 Know git basics; you don't need to know how to filter a repo down (that's the point of this) but you should probably understand basic commit/push practices.
-
-Docker and docker-compose, we will be using both, understand their basics, please.
